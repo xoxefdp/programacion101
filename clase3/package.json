@@ -1,0 +1,16 @@
+{
+  "name": "clase3",
+  "version": "1.0.0",
+  "description": "- La arquitectura cliente-servidor [cliente-servidor](https://es.wikipedia.org/wiki/Cliente-servidor)",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:frontend": "npx http-server",
+    "start:server": "node server.js"
+  },
+  "author": "Jose Diaz",
+  "license": "ISC"
+}
