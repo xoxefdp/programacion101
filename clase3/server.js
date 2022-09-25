@@ -16,5 +16,5 @@ app.get('/', cors(), (request, response, next) => {
 })
 
 app.listen(PORT, () => {
-  console.log(`Server listening on port: ${PORT}`)
+  console.log(`Server listening port: ${PORT}`)
 })
