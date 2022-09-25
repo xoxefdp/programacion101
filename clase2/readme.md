@@ -16,3 +16,4 @@
   - Operador de comparacion absoluta (===)
   - Operador AND (&&) o de inclusion
 
+# CAMBIO (2022 - 09 - 25)
